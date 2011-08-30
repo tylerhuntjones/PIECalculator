@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ohmslaw">Ohms Law</string>
+    <string name="ohmslaw_pie">Power = Current*Voltage</string>
+    <string name="ohmslaw_vir">Voltage = Current*Resistance</string>
+    <string name="app_name">PIE Calculator</string>
+</resources>
